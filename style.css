@@ -1,0 +1,16 @@
+header{
+    display:flex;
+    justify-content:space-between;
+}
+ul{
+    display:flex;
+    width:400px;
+    justify-content:space-between;
+}
+nav {
+    width:40vw;
+}
+li{
+    list-style-type:none;
+
+}
